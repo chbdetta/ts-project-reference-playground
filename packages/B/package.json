@@ -1,0 +1,14 @@
+{
+  "name": "@my-package/b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc -b"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@my-package/a": "^1.0.0"
+  }
+}
