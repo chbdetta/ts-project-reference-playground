@@ -1,0 +1,3 @@
+run `npm run typecheck` to see the issue.
+
+check out `packages/B/index.ts`
